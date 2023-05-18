@@ -6,5 +6,6 @@ namespace CrudConta.Entities
         public string Numero_Conta {get; set;}
         public string Name_Titular {get; set;}
         public string Tipo_Conta {get; set;}
+        public string Saldo_Conta {get; set;}
     }
 }
